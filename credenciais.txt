@@ -1,0 +1,4 @@
+PARA MUDAR AS CREDENCIAIS E CONSEGUIR FAZER O COMMIT EM UM DIFERENTE REPOSITORIO, USE:
+
+git commit --amend --author "New Author Name <email@address.com>" --no-edit
+git rebase --continue

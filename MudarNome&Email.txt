@@ -1,0 +1,4 @@
+PARA MUDAR NOME E EMAIL CONFIGURADOS
+
+git config --global user.name "otaviocefet"  
+git config --global user.email "otaviocefet@gmail.com" 
